@@ -648,6 +648,11 @@ div:nth-child(2n) img{
     background-color: #872F3B;
     /* text-decoration: none; */
     border-radius: 10px;
+    color:#e0fbfc;
+    font-size: 15px;
+    width: 90px;
+    height:45px;
+    
     
   }
   .skip
