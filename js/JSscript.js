@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("Navigating to this page");
-}
+    window.location.href = "femdict.html";
+  }
